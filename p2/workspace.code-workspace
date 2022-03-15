@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../pcsa-2020-t3-public/code/11"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
